@@ -35,7 +35,7 @@ class Mahasiswa{
     
     // method dengan return menggunakan parameter
     String sayHi(String message){
-        return message + "Juga,"+"Nama saya adalah "+this.nama;
+        return message + " Juga,"+"Nama saya adalah "+this.nama;
     }
 
 }
